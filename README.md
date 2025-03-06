@@ -1,6 +1,6 @@
 # Clothes Swap App
 
-A Tinder-like mobile application for swapping used clothes, initially targeting college students. Users can add their clothes, swipe through others' items, and arrange swaps through an in-app chat system.
+A mobile application for swapping used clothes, initially targeting college students. Users can add their clothes, swipe through others' items, and arrange swaps through an in-app chat system.
 
 ## Features
 
