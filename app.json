@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Clothes Swap",
+    "slug": "clothes-swap-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "newArchEnabled": true
+    },
+    "android": {
+      "newArchEnabled": true
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+} 
